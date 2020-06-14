@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3584912-163a-4119-8f5a-54fa767bcd0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$AddUserToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$AutomaticUnmuteUserInGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$EmptyMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$GetActorRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$ReceiveFileFromGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$ReceiveFileFromUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$ReceiveTextFromGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$ReceiveTextFromUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Messages$SendFileDataToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/dictionaries/weamh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/src/main/java/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/src/main/java/ClientUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/src/main/java/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/src/main/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/ClientUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$AddUserToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$AutomaticUnmuteUserInGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$Connect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$CreateGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$DemoteCoAdminInGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$Disconnect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$EmptyMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$GetActorRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$InviteAnswer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$InvitePending.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$InviteUserToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$LeaveGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$MuteUserInGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$PromoteCoAdminInGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$ReceiveFileFromGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$ReceiveFileFromUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$ReceiveTextFromGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$ReceiveTextFromUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$RemoveUserFromGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$SendFileDataToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$SendFileToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$SendFileToUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$SendTextToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$SendTextToUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages$UnmuteUserInGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/Messages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Client2/target/classes/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$AddUserToGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$AutomaticUnmuteUserInGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$EmptyMessage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$GetActorRef.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$ReceiveFileFromGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$ReceiveFileFromUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$ReceiveTextFromGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$ReceiveTextFromUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$SendFileDataToGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/locally" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ClientUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ClientUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ClientUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$Connect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$Connect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$CreateGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$CreateGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$DemoteCoAdminInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$DemoteCoAdminInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$Disconnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$Disconnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$InviteAnswer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$InviteAnswer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$InvitePending.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$InvitePending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$InviteUserToGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$InviteUserToGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$LeaveGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$LeaveGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$MuteUserInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$MuteUserInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$PromoteCoAdminInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$PromoteCoAdminInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$RemoveUserFromGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$RemoveUserFromGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$SendFileToGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$SendFileToGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$SendFileToUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$SendFileToUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$SendTextToGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$SendTextToGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$SendTextToUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$SendTextToUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$ServerReply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages$UnmuteUserInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages$UnmuteUserInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Messages.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Messages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/main/java/ManagingServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/src/main/java/ManagingServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/main/java/Messages.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/src/main/java/Messages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/main/java/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/src/main/java/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/src/main/resources/application.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/META-INF/Server.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/ManagingServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/ManagingServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$Connect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$Connect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$CreateGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$CreateGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$DemoteCoAdminInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$DemoteCoAdminInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$Disconnect.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$Disconnect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$InviteAnswer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$InviteAnswer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$InvitePending.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$InvitePending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$InviteUserToGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$InviteUserToGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$LeaveGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$LeaveGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$MuteUserInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$MuteUserInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$PromoteCoAdminInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$PromoteCoAdminInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$RemoveUserFromGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$RemoveUserFromGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$SendFileToGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$SendFileToGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$SendFileToUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$SendFileToUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$SendTextToGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$SendTextToGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$SendTextToUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$SendTextToUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$ServerReply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages$UnmuteUserInGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages$UnmuteUserInGroup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Messages.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Messages.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Server/target/classes/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Server/target/classes/application.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Client$Client.ic" NAME="Client Coverage Results" MODIFIED="1560455606807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UynPrhRRQ2EuCSF9sf6ZwvbZcD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560701569401" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/java-akka-remote-example-master/java-akka-remote-example-master/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientUI">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Client" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientSystemInitializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientSystemInitializer" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Java/jre1.8.0_231" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClientUI" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ClientUI" />
+      <item itemvalue="Application.ClientSystemInitializer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientUI" />
+        <item itemvalue="Application.ClientSystemInitializer" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3584912-163a-4119-8f5a-54fa767bcd0f" name="Default Changelist" comment="" />
+      <created>1560350467891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560350467891</updated>
+      <workItem from="1576337683998" duration="79000" />
+      <workItem from="1576337819713" duration="1011000" />
+      <workItem from="1576339015786" duration="1801000" />
+      <workItem from="1576400761899" duration="236000" />
+      <workItem from="1576403231541" duration="56000" />
+      <workItem from="1576403293882" duration="17000" />
+      <workItem from="1576403327840" duration="41000" />
+      <workItem from="1576403382451" duration="23000" />
+      <workItem from="1576403423693" duration="14426000" />
+      <workItem from="1576664171121" duration="1146000" />
+      <workItem from="1576665750839" duration="13950000" />
+      <workItem from="1576735609080" duration="8000" />
+      <workItem from="1576735629656" duration="7541000" />
+      <workItem from="1576921033497" duration="70117000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="71" key="#Client" timestamp="1576337742019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="71" key="#Client/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1576337742019" />
+    <state x="500" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1577006815330">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577006815330" />
+    <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577018961099">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577018961099" />
+    <state x="0" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1576930299925" />
+    <state x="575" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1577009593748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577009593748" />
+    <state x="575" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1576670566065" />
+    <state x="606" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576337701241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="606" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1576337701241" />
+    <state x="500" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1577017801659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577017801659" />
+    <state x="550" y="167" key="FileChooserDialogImpl" timestamp="1577018959585">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="167" key="FileChooserDialogImpl/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577018959585" />
+    <state x="550" y="167" key="FileChooserDialogImpl/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1576340211809" />
+    <state x="550" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1576679930498" />
+    <state width="723" height="175" key="GridCell.Tab.0.bottom" timestamp="1577184664189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="173" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577022042160" />
+    <state width="1493" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1577143271514" />
+    <state width="1557" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.1256.1600.860@3840.1256.1600.860" timestamp="1576338831484" />
+    <state width="723" height="175" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577184664189" />
+    <state width="723" height="175" key="GridCell.Tab.0.center" timestamp="1577184664189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="173" key="GridCell.Tab.0.center/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577022042160" />
+    <state width="1493" height="175" key="GridCell.Tab.0.center/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1577143271514" />
+    <state width="1557" height="259" key="GridCell.Tab.0.center/0.0.1536.824/3840.1256.1600.860@3840.1256.1600.860" timestamp="1576338831483" />
+    <state width="723" height="175" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577184664189" />
+    <state width="723" height="175" key="GridCell.Tab.0.left" timestamp="1577184664189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="173" key="GridCell.Tab.0.left/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577022042159" />
+    <state width="1493" height="175" key="GridCell.Tab.0.left/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1577143271514" />
+    <state width="1557" height="259" key="GridCell.Tab.0.left/0.0.1536.824/3840.1256.1600.860@3840.1256.1600.860" timestamp="1576338831482" />
+    <state width="723" height="175" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577184664189" />
+    <state width="723" height="175" key="GridCell.Tab.0.right" timestamp="1577184664189">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="723" height="173" key="GridCell.Tab.0.right/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577022042160" />
+    <state width="1493" height="175" key="GridCell.Tab.0.right/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1577143271514" />
+    <state width="1557" height="259" key="GridCell.Tab.0.right/0.0.1536.824/3840.1256.1600.860@3840.1256.1600.860" timestamp="1576338831483" />
+    <state width="723" height="175" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577184664189" />
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom" timestamp="1576679513343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1576679513343" />
+    <state width="1493" height="262" key="GridCell.Tab.1.center" timestamp="1576679513343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1576679513343" />
+    <state width="1493" height="262" key="GridCell.Tab.1.left" timestamp="1576679513343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1576679513343" />
+    <state width="1493" height="262" key="GridCell.Tab.1.right" timestamp="1576679513343">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="262" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1576679513343" />
+    <state x="279" y="55" key="SettingsEditor" timestamp="1576744045118">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="55" key="SettingsEditor/0.0.1536.824/3840.1256.1600.860@0.0.1536.824" timestamp="1576337919672" />
+    <state x="279" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1576744045118" />
+    <state x="19" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577021107557">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="19" y="30" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824/3840.1064.1920.1040@0.0.1536.824" timestamp="1577021107557" />
+    <state x="477" y="41" key="refactoring.ChangeSignatureDialog" timestamp="1577178163159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="41" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1577178163159" />
+    <state x="48" y="190" width="672" height="677" key="run.anything.popup" timestamp="1577088742658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="48" y="190" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1577088742658" />
+    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1577028522046">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="47" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1577028522046" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>akka-sample-main-java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.typesafe.akka:akka-actor_2.12:2.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
