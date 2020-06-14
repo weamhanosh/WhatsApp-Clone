@@ -1,6 +1,8 @@
 # WhatsApp-Clone
 A textual-based WhatsApp clone, implemented in Akka using Java.
+
 University assignment in coursework "Functional and Reactive Programming".
+
 All commands for using this application are in the PDF file "Assignment 2 - The Actor Model using Akka.pdf".
 
 Java version: jre-8u231 (Java 8) (You can download it here: https://www.java.com/en/download/windows-64bit.jsp)
