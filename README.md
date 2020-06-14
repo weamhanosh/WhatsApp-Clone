@@ -7,10 +7,11 @@ Java version: jre-8u231 (Java 8) (You can download it here: https://www.java.com
 Maven: 2.12.1
 
 Instructions:
+	
 	1. File -> Open -> choose pom.xml file provided in each sub-directory, Open as Project,
 		choose New Window in the pop-up (if it appears) and repeat for each of the sub-directories provided
 		(You need to open an instance of IntelliJ for each sub-directory)
-
+		
 	2. Change JRE in 'Edit Configurations' to JAVA 8 for each instance of IntelliJ
 		(default install location of Java 8 is C:\Program Files\Java\jre1.8.0_231)
 
